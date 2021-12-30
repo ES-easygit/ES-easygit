@@ -1,7 +1,9 @@
+(https://pbs.twimg.com/profile_banners/1474065583201157120/1640523711/1500x500)
+
+
 ### Hi there 👋, my name is Eshikha Shah.
 #### I am a full stack web developer.
-![I am a full stack web developer.](https://pbs.twimg.com/profile_banners/1474065583201157120/1640523711/1500x500)
-
+![I am a full stack web developer.]
 Graduated Masters in Computer Application in 2013 and then worked as a Technology/CS teacher in schools for 4 years. Then worked as a freelance coding tutor at WhiteHat Junior for 2years. And now started a new journey of learning Full Stack Development to switch my role from an educator to a web developer. Will be job ready in the first half of the year 2022. Eagerly looking forward to work in a new dimension .
 
 Skills:  JS / HTML / CSS
