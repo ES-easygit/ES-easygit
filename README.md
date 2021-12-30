@@ -1,6 +1,4 @@
 (https://pbs.twimg.com/profile_banners/1474065583201157120/1640523711/1500x500)
-
-
 ### Hi there 👋, my name is Eshikha Shah.
 #### I am a full stack web developer.
 ![I am a full stack web developer.]
