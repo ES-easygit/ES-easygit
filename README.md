@@ -4,10 +4,10 @@
 
 Graduated Masters in Computer Application in 2013 and then worked as a Technology/CS teacher in schools for 4 years. Then worked as a freelance coding tutor at WhiteHat Junior for 2years. And now started a new journey of learning Full Stack Development to switch my role from an educator to a web developer. Will be job ready in the first half of the year 2022. Eagerly looking forward to work in a new dimension .
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS / Bootstrap / React JS
 
-- 🔭 I’m currently working on HTML & CSS 
-- 🌱 I’m currently learning JS & REACT 
+- 🔭 I’m currently working on JS & React 
+- 🌱 I’m currently learning REACT 
 - 👯 I’m looking to collaborate on github 
 
 
